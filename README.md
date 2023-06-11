@@ -19,18 +19,18 @@
 </div>
 <!-- header done  -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+ -->
 
 
 
 
+<!-- :woman_technologist: About Me :
 
-:woman_technologist: About Me :
 
-
-- 🔭 I am a Flutter  Developer  from Kyrgyzstan.
+- 🔭 I am a Flutter  Developer  from Kyrgyzstan. -->
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
